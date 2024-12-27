@@ -1,0 +1,8 @@
+-- Thinking about Maps and Folds
+--
+-- Think about the following two lines of code that use map and foldr. When 
+-- might they do the same thing? When might they differ? How might that change 
+-- if you used foldl instead of foldr?
+--
+--   λ \f g -> foldr g 0 . map f
+--   λ \f g -> foldr (g . f) 0

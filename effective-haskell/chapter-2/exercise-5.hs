@@ -1,0 +1,7 @@
+-- Folds and Infinite lists
+-- 
+-- You learned in this chapter that you can only use foldr on infinite lists, 
+-- but not foldl. Try to work manually through calling foldl on an infinite 
+-- list What happens? What does this tell you about why you can’t use foldl on 
+-- an infinite list? Are there any other benefits to foldr when dealing with 
+-- large but finite lists?
