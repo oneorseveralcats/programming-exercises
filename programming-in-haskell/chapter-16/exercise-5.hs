@@ -1,0 +1,12 @@
+-- Using the above definition for ++, together with
+--
+--  take 0 _      = []
+--  take _ []     = []
+--  take n (x:xs) = x : take (n-1) xs
+--
+--  drop 0 xs     = xs
+--  drop _ []     = []
+--  drop n (_:xs) = drop (n-1) xs
+--
+--
+--   show that take n xs ++ drop n xs = xs, by simultaneous induction on the integer n --img-- 0 and the list xs. Hint: there are three cases, one for each pattern of arguments in the definitions of take and drop.

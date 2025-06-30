@@ -1,0 +1,1 @@
+-- Work out the types for the variables in the four applicative laws.

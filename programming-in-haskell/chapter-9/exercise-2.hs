@@ -1,0 +1,1 @@
+-- Define a recursive function isChoice :: Eq a => [a] -> [a] -> Bool that decides if one list is chosen from another, without using the combinatorial functions perms and subs. Hint: start by defining a function that removes the first occurrence of a value from a list.

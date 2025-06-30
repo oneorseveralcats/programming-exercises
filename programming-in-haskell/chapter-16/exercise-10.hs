@@ -1,0 +1,1 @@
+-- Verify the monad laws for the list type. Hint: the proofs can be completed using simple properties of list comprehensions.

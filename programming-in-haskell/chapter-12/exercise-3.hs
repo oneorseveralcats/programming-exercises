@@ -1,0 +1,1 @@
+-- Define an instance of the Applicative class for the type (a ->). If you are familiar with combinatory logic, you might recognise pure and <*> for this type as being the well-known K and S combinators.

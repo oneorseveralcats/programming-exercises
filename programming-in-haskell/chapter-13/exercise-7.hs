@@ -1,0 +1,1 @@
+-- Further extend the grammar and parser for arithmetic expressions to support exponentiation ^, which is assumed to associate to the right and have higher priority than multiplication and division, but lower priority than parentheses and numbers. For example, 2^3*4 means (2^3)*4. Hint: the new level of priority requires a new rule in the grammar.

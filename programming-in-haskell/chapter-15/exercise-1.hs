@@ -1,0 +1,9 @@
+-- Identify the redexes in the following expressions, and determine whether each redex is innermost, outermost, neither, or both:
+--
+--   1 + (2*3)
+--
+--   (1+2) * (2+3)
+--
+--   fst (1+2, 2+3)
+--
+--   (\x -> 1 + x) (2*3)

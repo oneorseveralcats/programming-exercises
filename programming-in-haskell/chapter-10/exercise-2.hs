@@ -1,0 +1,1 @@
+-- Using recursion, define a version of putBoard :: Board -> IO () that displays nim boards of any size, rather than being specific to boards with just five rows of stars. Hint: first define an auxiliary function that takes the current row number as an additional argument.

@@ -1,0 +1,5 @@
+-- In a similar manner, show how the following type of binary trees with data in their nodes can be made into a foldable and traversable type:
+--
+--   data Tree a = Leaf | Node (Tree a) a (Tree a)
+--
+--   deriving Show

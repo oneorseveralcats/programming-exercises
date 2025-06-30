@@ -1,0 +1,7 @@
+-- Modify the final program to:
+--
+--   a. allow the use of exponentiation in expressions;
+--
+--   b. produce the nearest solutions if no exact solution is possible;
+--
+--   c. order the solutions using a suitable measure of simplicity.

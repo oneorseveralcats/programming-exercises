@@ -1,0 +1,1 @@
+-- Alternatively, modify the final program to choose a move that attempts to take the quickest route to a win, by calculating the depths of resulting game trees and selecting a move that results in a tree with the smallest depth.

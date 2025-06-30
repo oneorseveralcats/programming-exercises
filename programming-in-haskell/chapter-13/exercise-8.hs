@@ -1,0 +1,9 @@
+-- Consider expressions built up from natural numbers using a subtraction operator that is assumed to associate to the left.
+--
+--   a. Translate this description directly into a grammar.
+--
+--   b. Implement this grammar as a parser expr :: Parser Int.
+--
+--   c. What is the problem with this parser?
+--
+--   d. Show how it can be fixed. Hint: rewrite the parser using the repetition primitive many and the library function foldl.

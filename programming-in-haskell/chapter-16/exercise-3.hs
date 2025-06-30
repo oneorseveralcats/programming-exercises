@@ -1,0 +1,7 @@
+-- Using the following definition for the library function that decides if all elements of a list satisfy a predicate
+--
+--  all p []= True
+--
+--  all p (x:xs) = p x && all p xs
+--
+--  complete the proof of the correctness of replicate by showing that it produces a list with identical elements, all (== x) (replicate n x), by induction on  Hint: show that the property is always True.

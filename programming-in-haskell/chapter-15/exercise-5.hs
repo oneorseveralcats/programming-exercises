@@ -1,0 +1,25 @@
+-- Define appropriate versions of the library functions
+--
+--   repeat :: a -> [a]
+--
+--   repeat x = xs where xs = x:xs
+--
+--
+--   take :: Int -> [a] -> [a]
+--
+--   take 0 _ = []
+--
+--   take _ [] = []
+--
+--   take n (x:xs) = x : take (n-1) xs
+--
+--
+--   replicate :: Int -> a -> [a]
+--
+--   replicate n = take n . repeat
+--
+--   for the following type of binary trees:
+--
+--   data Tree a = Leaf | Node (Tree a) a (Tree a)
+--
+--   deriving Show

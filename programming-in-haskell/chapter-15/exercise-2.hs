@@ -1,0 +1,1 @@
+-- Show why outermost evaluation is preferable to innermost for the purposes of evaluating the expression fst (1+2,2+3).

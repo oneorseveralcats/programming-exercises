@@ -1,0 +1,1 @@
+-- Redefine the combinatorial function choices using a list comprehension rather than using composition, concat and map.

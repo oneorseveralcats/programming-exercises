@@ -1,0 +1,1 @@
+-- Define an instance of the Monad class for the type (a ->).

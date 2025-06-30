@@ -1,0 +1,1 @@
+-- In a similar manner, show how a function type a -> b can be made into a monoid provided that the result type b is a monoid.

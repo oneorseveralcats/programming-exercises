@@ -1,0 +1,1 @@
+-- Extend the tautology checker to support the use of logical disjunction  and equivalence (⇔) in propositions.

@@ -1,0 +1,5 @@
+-- Given the type declaration
+--
+--   data Tree = Leaf Int | Node Tree Tree
+--
+--   show that the number of leaves in such a tree is always one greater than the number of nodes, by induction on trees. Hint: start by defining functions that count the number of leaves and nodes in a tree.

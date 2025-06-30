@@ -1,0 +1,6 @@
+-- Extend the parser expr :: Parser Int to support subtraction and division, and to use integer values rather than natural numbers, based upon the following revisions to the grammar:
+--
+--  expr   ::= term (+ expr | - expr | €)
+--  term   ::= factor (* term | / term | €)
+--  factor ::= (expr) | int
+--  int    ::= ... | -1 | 0 | 1 | ...

@@ -1,0 +1,12 @@
+-- Complete the following instance declaration from Data.Monoid to make a pair type into a monoid provided the two component types are monoids:
+--
+--   instance (Monoid a, Monoid b) => Monoid (a,b) where
+--
+--   -- mempty :: (a,b)
+--
+--   mempty = ...
+--
+--
+--   -- mappend :: (a,b) -> (a,b) -> (a,b)
+--
+--   (x1,y1) ‘mappend‘ (x2,y2) = ...

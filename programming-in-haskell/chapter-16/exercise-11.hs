@@ -1,0 +1,1 @@
+-- Given the equation comp’ e c = comp e ++ c, show how to construct the recursive definition for comp’, by induction on e.

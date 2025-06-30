@@ -1,0 +1,7 @@
+-- Consider the following type of binary trees:
+--
+-- data Tree a = Leaf a | Node (Tree a) (Tree a)
+--
+-- Let us say that such a tree is balanced if the number of leaves in the left and right subtree of every node differs by at most one, with leaves themselves being trivially balanced. Define a function balanced :: Tree a -> Bool that decides if a binary tree is balanced or not.
+--
+-- Hint: first define a function that returns the number of leaves in a tree.

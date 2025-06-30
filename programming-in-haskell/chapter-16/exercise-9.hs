@@ -1,0 +1,1 @@
+-- Verify the applicative laws for the Maybe type.

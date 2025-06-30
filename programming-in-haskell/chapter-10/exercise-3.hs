@@ -1,0 +1,1 @@
+-- In a similar manner to the first exercise, redefine the generalised version of putBoard using a list comprehension and sequence_.

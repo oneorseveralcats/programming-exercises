@@ -1,0 +1,1 @@
+-- Given the definition mult = \x -> (\y -> x * y), show how the evaluation of mult 3 4 can be broken down into four separate steps.

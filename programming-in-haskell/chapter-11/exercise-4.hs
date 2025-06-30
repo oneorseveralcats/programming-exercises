@@ -1,0 +1,9 @@
+-- Modify the final program to:
+--
+--  a. let the user decide if they wish to play first or second;
+--
+--  b. allow the length of a winning line to also be changed;
+--
+--  c. generate the game tree once, rather than for each move;
+--
+--  d. reduce the size of game tree using alpha-beta pruning.

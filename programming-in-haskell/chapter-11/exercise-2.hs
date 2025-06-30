@@ -1,0 +1,1 @@
+-- Our tic-tac-toe program always chooses the first move from the list of best moves. Modify the final program to choose a random move from the list of best moves, using the function randomRIO :: (Int,Int) -> IO Int from System.Random to generate a random integer in the given range.

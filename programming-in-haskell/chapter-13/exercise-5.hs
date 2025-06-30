@@ -1,0 +1,1 @@
+-- Define a suitable type Expr for arithmetic expressions and modify the parser for expressions to have type expr :: Parser Expr.

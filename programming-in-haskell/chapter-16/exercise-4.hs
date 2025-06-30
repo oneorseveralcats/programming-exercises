@@ -1,0 +1,13 @@
+-- Using the definition
+--
+--   [] ++ ys= ys
+--
+--   (x:xs) ++ ys = x : (xs ++ ys)
+--
+--   verify the following two properties, by induction on xs:
+--
+--   xs ++ [] = xs
+--
+--   xs ++ (ys ++ zs) = (xs ++ ys) ++ zs
+--
+--   Hint: the proofs are similar to those for the add function.

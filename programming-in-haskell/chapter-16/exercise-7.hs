@@ -1,0 +1,1 @@
+-- Verify the functor laws for the Maybe type. Hint: the proofs proceed by case analysis, and do not require the use of induction.
