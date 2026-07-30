@@ -1,0 +1,7 @@
+build:
+    csc /target:exe /out:main.exe *.cs
+run: build
+    clear
+    mono main.exe
+watch:
+    watchexec --no-process-group -- just run
